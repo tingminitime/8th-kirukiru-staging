@@ -1,0 +1,1 @@
+import{o as r,c as e}from"./vendor-385d4c3c.js";import{_ as s}from"./index-407e3f79.js";var n=s({name:"UserArticles"},[["render",function(s,n,o,t,a,i){return r(),e("div",null,"User Articles")}]]);export{n as default};

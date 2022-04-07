@@ -1,1 +1,0 @@
-import{o as r,c as o}from"./vendor-385d4c3c.js";import{_ as e}from"./index-abe9143d.js";var n=e({name:"IntroAbout"},[["render",function(e,n,t,a,d,s){return r(),o("div",null,"About")}]]);export{n as default};
