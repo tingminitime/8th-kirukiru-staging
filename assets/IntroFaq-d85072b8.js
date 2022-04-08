@@ -1,1 +1,0 @@
-import{o as r,c as e}from"./vendor-385d4c3c.js";import{_ as n}from"./index-407e3f79.js";var o=n({name:"IntroFaq"},[["render",function(n,o,a,t,d,s){return r(),e("div",null,"QA")}]]);export{o as default};

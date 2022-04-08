@@ -1,0 +1,1 @@
+import{o as r,c as e}from"./vendor-385d4c3c.js";import{_ as o}from"./index-6d139253.js";var n=o({name:"UserCollections"},[["render",function(o,n,s,t,a,d){return r(),e("div",null,"User Collections")}]]);export{n as default};
