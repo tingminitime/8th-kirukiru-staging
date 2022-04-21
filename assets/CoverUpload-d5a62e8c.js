@@ -1,8 +1,4 @@
-<<<<<<< HEAD:assets/CoverUpload-d5a62e8c.js
 import{r as t,o as e,c as i,d as a,e as n,s as o,u as r,l as s,t as h,a as c,am as l}from"./vendor-c1c40a3c.js";import{_ as p}from"./index-915c545f.js";
-=======
-import{r as t,o as e,c as i,d as a,e as n,s as o,u as r,l as s,t as h,a as c,am as l}from"./vendor-358810ac.js";import{_ as p}from"./index-8468366b.js";
->>>>>>> 390e0df42db3e68b93a9905f5d8d2655627f9608:assets/CoverUpload-5dd9790b.js
 /*!
  * Cropper.js v1.5.12
  * https://fengyuanchen.github.io/cropperjs
